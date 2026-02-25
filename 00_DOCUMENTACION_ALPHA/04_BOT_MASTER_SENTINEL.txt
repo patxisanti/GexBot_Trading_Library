@@ -1,0 +1,16 @@
+==========================================================
+🤖 ARCHIVO: bot_master_sentinel.py
+==========================================================
+ROL: Estratega Jefe y Toma de Decisiones.
+
+FUNCIONAMIENTO:
+1. Cruza el precio SPOT con los niveles State de Gexbot.
+2. Analiza el Volumen vs el Open Interest (OI) en tiempo real.
+3. Aplica los filtros de Ambrus (No opera antes de las 09:33 NY).
+
+OUTPUT:
+- Genera JSONs con el campo 'sentinel_analysis'.
+- Clasifica el trade con Ratings (A++++ a C).
+
+PILAR QUE CUMPLE: Fredy Liquidation + Ambrus Timing.
+==========================================================

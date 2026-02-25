@@ -1,0 +1,16 @@
+==========================================================
+📐 ARCHIVO: bot_classic.py
+==========================================================
+ROL: Cartógrafo de Niveles Estructurales.
+
+FUNCIONAMIENTO:
+1. Extrae los niveles Classic de Gexbot (GEX, VEX, DDOI).
+2. Identifica el "Suelo" y el "Techo" técnico del día.
+3. Actualiza los muros de cemento cada 15 minutos.
+
+OUTPUT:
+- Mapas estructurales en /CME.
+- Identificación de strikes con mayor "Pinning" potencial.
+
+PILAR QUE CUMPLE: Muros de Cemento + Régimen de Convexidad.
+==========================================================

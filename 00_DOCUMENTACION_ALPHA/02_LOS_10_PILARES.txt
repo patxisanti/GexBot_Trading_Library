@@ -1,0 +1,17 @@
+==========================================================
+💎 LOS 10 PILARES DEL SENTINEL ALPHA (METODOLOGÍA)
+==========================================================
+
+1. AMBRUS TIMING: Apertura segura a las 09:33 NY. No jugamos con el ruido.
+2. FREDY LIQUIDATION: Volumen > 1.8x OI = Toma de beneficios (A++++).
+3. RÉGIMEN DE CONVEXIDAD: Cian (Calma/Long Gamma) vs Magenta (Caos/Short Gamma).
+4. AIR POCKETS: Identificación de vacíos de Gamma para trades de alta velocidad.
+5. MUROS DE CEMENTO: strikes de absorción masiva para estrategias de Pinning.
+6. TRIPLE CORONA: Confluencia obligatoria SPX + NDX + VIX.
+7. VIGILANCIA MAG7: Si Apple y Nvidia no confirman, el SPX miente.
+8. VANNA/CHARM: Movimiento mecánico por decaimiento de tiempo y volatilidad.
+9. ESTÁNDAR NEÓN: Visualización rápida #05070a para reacción instintiva.
+10. NARRATIVA DE FONTANERÍA: Siempre explicar el movimiento del Dealer.
+
+"Si no hay Pilar, no hay Trade."
+==========================================================

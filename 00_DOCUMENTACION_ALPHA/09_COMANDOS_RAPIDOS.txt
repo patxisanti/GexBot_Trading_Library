@@ -1,0 +1,29 @@
+==========================================================
+⚡ CHULETA DE COMANDOS - SENTINEL ALPHA
+==========================================================
+
+1. ENTORNO Y SEGURIDAD (Obligatorio al entrar)
+   - Activar venv: source ~/GexBot_Trading_Library/venv/bin/activate
+   - Ver procesos activos: ps aux | grep python3
+
+2. INSPECCIÓN DE "TRIPAS" (Ver qué está pasando)
+   - Radiografía de carpetas: tree -sh ~/GexBot_Trading_Library -I "__pycache__|venv|.git"
+   - Ver últimos JSON del Master: find ~/GexBot_Trading_Library/01_Backtesting_JSON/Sentinel_Master -name "*.json" -exec ls -lh {} +
+   - Leer última señal del Master: ls -t ~/GexBot_Trading_Library/01_Backtesting_JSON/Sentinel_Master/SPX/$(date +%Y-%m-%d)/*.json | head -n 1 | xargs cat
+
+3. EJECUCIÓN MANUAL (Lanzar bots a mano)
+   - Master: python3 ~/GexBot_Trading_Library/01_Backtesting_JSON/bot_master_sentinel.py
+   - Autopsia: python3 ~/GexBot_Trading_Library/01_Backtesting_JSON/bot_daily_autopsy.py
+
+4. CONTROL DE TIEMPOS (Crontab)
+   - Ver horario programado: crontab -l
+   - Editar horario: crontab -e
+
+5. LIMPIEZA Y MANTENIMIENTO
+   - Borrar logs de error: rm ~/GexBot_Trading_Library/*.log
+   - Borrar datos de prueba (CUIDADO): find ~/GexBot_Trading_Library/01_Backtesting_JSON/ -name "*.json" -delete
+
+6. SALUD DEL SERVIDOR
+   - Estado de la GPU (RTX 3060): nvidia-smi
+   - Espacio en disco: df -h
+==========================================================

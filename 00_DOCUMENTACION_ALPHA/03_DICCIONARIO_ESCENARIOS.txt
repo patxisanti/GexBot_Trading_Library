@@ -1,0 +1,24 @@
+==========================================================
+🛠️ DICCIONARIO DE FONTANERÍA SENTINEL
+==========================================================
+
+[M_REV_A4] -> REVERSIÓN POR LIQUIDACIÓN (Grial)
+- Contexto: Put Wall tocado + Volumen explosivo.
+- Acción: El Dealer compra para cerrar su corto. El rebote es mecánico.
+
+[M_CAS_A2] -> CASCADA DE DELTA
+- Contexto: Bajo Zero Gamma + Sin liquidación.
+- Acción: Los Dealers venden para cubrirse. Peligro de caída libre.
+
+[C_WALL_A1] -> MURO DE CEMENTO (CIAN)
+- Contexto: Sobre Zero Gamma + Call Wall.
+- Acción: Absorción masiva. El precio se frena ("Sticky Price").
+
+[C_AIR_A2] -> AIR POCKET ALCISTA
+- Contexto: Ruptura de Call Wall con vacío superior.
+- Acción: Sin fricción. El precio corre libre hasta el siguiente strike State.
+
+[Z_FLIP_C] -> ZONA DE CAOS
+- Contexto: Cruzando Zero Gamma.
+- Acción: Los Dealers flipean de Long a Short. Ruido total. NO OPERAR.
+==========================================================

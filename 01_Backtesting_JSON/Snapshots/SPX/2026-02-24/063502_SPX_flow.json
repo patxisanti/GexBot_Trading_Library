@@ -1,0 +1,6 @@
+{
+    "activo": "SPX",
+    "vanna_exposure": 0.45,
+    "friction": "Cyan Spike (Liquidity Absorption)",
+    "market_health": "Neutral"
+}

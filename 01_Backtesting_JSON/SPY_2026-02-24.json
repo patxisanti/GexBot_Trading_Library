@@ -1,0 +1,9 @@
+{
+    "ticker": "SPY",
+    "date": "2026-02-24",
+    "spot": 682.19,
+    "put_wall": 680.0,
+    "call_wall": 685.0,
+    "vol_trigger": 680.0,
+    "gamma_status": "Neutral"
+}

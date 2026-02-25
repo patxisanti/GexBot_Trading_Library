@@ -1,0 +1,6 @@
+📋 **AUTOPSIA DIARIA SENTINEL: 2026-02-24**
+
+⚠️ Datos de SPX no disponibles para autopsia.
+**NDX:**
+- Cierre Spot: 24708.94
+- Rango del día: 24680.0 (PW) a 24900.0 (CW)
