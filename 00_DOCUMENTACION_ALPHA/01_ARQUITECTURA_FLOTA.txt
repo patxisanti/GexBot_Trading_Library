@@ -1,0 +1,25 @@
+==========================================================
+🚢 FLOTA SENTINEL ALPHA - MANUAL DE OPERACIONES
+==========================================================
+Estado: Producción | Versión: 2.0 | Fecha: 2026-02-24
+
+1. EL CEREBRO: bot_master_sentinel.py
+   - Función: Análisis de alta convicción (A++++).
+   - Datos: API Gexbot (State) + Volumen Real.
+   - Disparo: Crontab (09:33 NY / 14:33 Canarias).
+   - Salida: JSON de Auditoría en /Sentinel_Master.
+
+2. LA VOZ: sentinel_narrative.py
+   - Función: Librería de 50+ escenarios de "Fontanería".
+   - Contenido: Descripciones técnicas de por qué el Dealer compra o vende.
+   - Rating: Segmentación de A++++ (Grial) a C (Caos).
+
+3. EL AUDITOR: bot_daily_autopsy.py
+   - Función: Análisis Post-Mercado.
+   - Disparo: Crontab (22:00 Canarias).
+   - Meta: Validar si las señales A+ fueron reales o errores de lógica.
+
+4. EL SCOUT: bot_health.py / bot_orderflow.py
+   - Función: Vigilancia de las Mag7 y flujo de órdenes.
+   - Meta: Proveer contexto de confluencia (Triple Corona).
+==========================================================

@@ -1,0 +1,7 @@
+{
+    "activo": "SPX",
+    "zero_gamma": 5105.75,
+    "put_wall": 5100.0,
+    "call_wall": 5200.0,
+    "info": "Datos estructurales con Zero Gamma"
+}

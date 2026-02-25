@@ -1,0 +1,16 @@
+==========================================================
+🕵️‍♂️ ARCHIVO: bot_daily_autopsy.py
+==========================================================
+ROL: Auditor y Juez del Sistema.
+
+FUNCIONAMIENTO:
+1. Se activa tras el cierre (22:00 Canarias).
+2. Recopila todos los ratings del día.
+3. Resume la efectividad de las señales A++++.
+
+OUTPUT:
+- Informe final de convicción vs realidad.
+- Resumen en daily_summary.log.
+
+PILAR QUE CUMPLE: Narrativa de Fontanería + Backtesting Quant.
+==========================================================

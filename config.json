@@ -1,0 +1,7 @@
+{
+    "tradier_api_key": "",
+    "discord_webhook": "https://discord.com/api/webhooks/1474720425065054231/vBustmy6TNeRR33zCMxiIzRuqeTYOI6YY-Fqyf2lkxK_f_gCDI6m2DQ6VPB9EKuKKOHz",
+    "vps_mode": "venv",
+    "active_tickers": ["SPX", "NDX", "VIX", "SPY", "QQQ", "SQQQ", "TLT", "AAPL", "MSFT", "NVDA", "GOOGL", "AMZN", "META", "TSLA"],
+    "ignored_assets": ["ES", "NQ"]
+}

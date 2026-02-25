@@ -1,0 +1,6 @@
+{
+    "activo": "NDX",
+    "vanna_exposure": 0.45,
+    "friction": "Normal Flow",
+    "market_health": "Neutral"
+}

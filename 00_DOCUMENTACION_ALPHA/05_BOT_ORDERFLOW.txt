@@ -1,0 +1,16 @@
+==========================================================
+📡 ARCHIVO: bot_orderflow.py
+==========================================================
+ROL: Explorador de Fricción y Velocidad.
+
+FUNCIONAMIENTO:
+1. Mide la agresividad del Tape (Cian Spikes).
+2. Detecta si hay "Absorción" en los muros o si el flujo es libre.
+3. Sirve como confirmación para los Air Pockets.
+
+OUTPUT:
+- Registros de flujo en /Snapshots.
+- Alertas de "Friction Detected" en los niveles clave.
+
+PILAR QUE CUMPLE: Fontanería + Air Pockets.
+==========================================================

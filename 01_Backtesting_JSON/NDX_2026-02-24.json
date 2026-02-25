@@ -1,0 +1,9 @@
+{
+    "ticker": "NDX",
+    "date": "2026-02-24",
+    "spot": 24708.94,
+    "put_wall": 24680.0,
+    "call_wall": 24900.0,
+    "vol_trigger": 24680.0,
+    "gamma_status": "Neutral"
+}
