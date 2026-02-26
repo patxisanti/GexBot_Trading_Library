@@ -1,4 +1,13 @@
-config.py
-venv/
-*.log
+# Ignorar credenciales y llaves
+config.json
 .env
+auth.json
+
+# Ignorar archivos temporales de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignorar logs locales (ya los tenemos en la carpeta 02)
+*.log
+02_Informes_Texto/health_check.log
